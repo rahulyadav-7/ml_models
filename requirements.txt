@@ -6,3 +6,7 @@ scikit-learn
 pandas
 datetime
 ipywidgets
+Pillow
+basemap
+Cartopy
+scikit-image
